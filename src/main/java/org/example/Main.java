@@ -11,9 +11,9 @@ public class Main {
         System.out.println(list.size());
     }
 
-    public void formatDate() {
-        Date date = new Date();
-        SimpleDateFormat ft = new SimpleDateFormat("MM-dd-yyyy");
-        System.out.println("Format Date: " + ft.format(date));
-    }
+//    public void formatDate() {
+//        Date date = new Date();
+//        SimpleDateFormat ft = new SimpleDateFormat("MM-dd-yyyy");
+//        System.out.println("Format Date: " + ft.format(date));
+//    }
 }
